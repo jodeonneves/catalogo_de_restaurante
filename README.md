@@ -3,9 +3,9 @@ Bem-vindo ao Catálogo de Restaurantes
 Este é um programa em Python que permite que você cadastre restaurantes e gerencie seu status de ativo ou desativado. Com este sistema, você pode manter um registro organizado de todos os restaurantes que deseja monitorar, bem como controlar sua disponibilidade.
 
 Como usar:
-Edidor de código
-Python 3.12.2
-Biblioteta OS
+Edidor de código,
+Python 3.12.2,
+Biblioteta OS.
 
 Cadastro de Restaurantes:
 
